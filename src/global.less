@@ -1,0 +1,108 @@
+@import './styles/reset.css';
+
+// 全局样式
+:root {
+  --primary-color: #1890ff;
+  --success-color: #52c41a;
+  --warning-color: #faad14;
+  --error-color: #f5222d;
+  --font-size-base: 14px;
+  --heading-color: rgba(0, 0, 0, 0.85);
+  --text-color: rgba(0, 0, 0, 0.65);
+  --text-color-secondary: rgba(0, 0, 0, 0.45);
+  --disabled-color: rgba(0, 0, 0, 0.25);
+  --border-radius-base: 4px;
+  --border-color-base: #d9d9d9;
+  --box-shadow-base: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+// 修复一些常见的样式问题
+* {
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: var(--font-size-base);
+  // 防止滚动条占用空间
+  overflow-y: scroll;
+  // 设置滚动条宽度
+  scrollbar-width: thin;
+  scrollbar-color: #888 #f1f1f1;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial,
+    'Noto Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol',
+    'Noto Color Emoji';
+  color: var(--text-color);
+  background-color: #fff;
+  line-height: 1.5;
+  // 确保内容区域不会被滚动条影响
+  width: 100vw;
+  overflow-x: hidden;
+}
+
+// 修复 antd 组件的一些样式问题
+.ant-btn {
+  font-size: var(--font-size-base);
+}
+
+.ant-input {
+  font-size: var(--font-size-base);
+}
+
+// 修复滚动条样式
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+  // 确保滚动条不会占用内容空间
+  background-color: transparent;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 3px;
+  // 确保轨道不会占用内容空间
+  margin: 0;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 3px;
+  // 确保滚动条不会占用内容空间
+  border: 1px solid transparent;
+  background-clip: padding-box;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+  border: 1px solid transparent;
+  background-clip: padding-box;
+}
+
+// 修复内容区域宽度问题
+#root {
+  width: 100%;
+  min-height: 100vh;
+  // 确保内容区域不会被滚动条影响
+  overflow-x: hidden;
+}
+
+// 修复布局容器
+.ant-layout {
+  width: 100%;
+  min-height: 100vh;
+  // 确保布局不会被滚动条影响
+  overflow-x: hidden;
+}
+
+// 修复内容区域
+.ant-layout-content {
+  width: 100%;
+  // 确保内容区域不会被滚动条影响
+  overflow-x: hidden;
+} 
