@@ -32,7 +32,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 0
+        "register": 1
       },
       "enableBy": "register",
       "type": "preset",
@@ -45,7 +45,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 8
+        "register": 3
       },
       "enableBy": "register",
       "type": "preset",
@@ -59,10 +59,10 @@
       "time": {
         "hooks": {
           "onStart": [
-            8
+            7
           ]
         },
-        "register": 2
+        "register": 3
       },
       "enableBy": "register",
       "type": "plugin",
@@ -94,6 +94,44 @@
         "hooks": {
           "modifyRoutes": [
             0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
             0
           ]
         },
@@ -111,14 +149,52 @@
       "time": {
         "hooks": {
           "modifyAppData": [
-            3
+            4
           ],
           "onGenerateFiles": [
-            2,
+            1,
+            8,
+            9,
+            3,
+            10,
+            5,
+            3,
+            9,
+            6,
+            12,
+            11,
+            5,
+            7,
+            8,
+            9,
+            6,
+            3,
+            3,
+            16,
+            56,
+            8,
+            8,
+            8,
+            6,
+            4,
+            7,
+            12,
+            6,
+            8,
+            7,
+            10,
+            7,
+            13,
+            4,
+            9,
+            10,
+            14,
+            9,
+            8,
             6
           ]
         },
-        "register": 12
+        "register": 13
       },
       "enableBy": "register",
       "type": "plugin",
@@ -132,6 +208,44 @@
       "time": {
         "hooks": {
           "addEntryCode": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
             0,
             0
           ]
@@ -150,6 +264,8 @@
       "time": {
         "hooks": {
           "onCheckConfig": [
+            0,
+            0,
             0
           ],
           "onCheck": [
@@ -157,9 +273,33 @@
           ],
           "onPrepareBuildSuccess": [
             0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
             0
           ],
           "onCheckCode": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
             0,
             0,
             0,
@@ -178,10 +318,13 @@
             0,
             0,
             0,
+            0,
+            0,
+            0,
             0
           ]
         },
-        "register": 0
+        "register": 1
       },
       "enableBy": "register",
       "type": "plugin",
@@ -198,7 +341,7 @@
             0
           ]
         },
-        "register": 1
+        "register": 0
       },
       "enableBy": "register",
       "type": "plugin",
@@ -211,7 +354,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 0
+        "register": 1
       },
       "enableBy": "config",
       "type": "plugin",
@@ -225,10 +368,12 @@
       "time": {
         "hooks": {
           "modifyConfig": [
+            0,
+            0,
             0
           ]
         },
-        "register": 4
+        "register": 5
       },
       "enableBy": "register",
       "type": "plugin",
@@ -1080,7 +1225,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 0
+        "register": 1
       },
       "enableBy": "config",
       "type": "plugin",
@@ -1097,7 +1242,7 @@
             1
           ]
         },
-        "register": 0
+        "register": 1
       },
       "enableBy": "register",
       "type": "plugin",
@@ -1111,10 +1256,10 @@
       "time": {
         "hooks": {
           "addBeforeMiddlewares": [
-            16
+            9
           ]
         },
-        "register": 1
+        "register": 0
       },
       "enableBy": "register",
       "type": "plugin",
@@ -1127,7 +1272,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 46
+        "register": 48
       },
       "enableBy": "register",
       "type": "plugin",
@@ -1140,7 +1285,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 32
+        "register": 51
       },
       "enableBy": "config",
       "type": "plugin",
@@ -1153,7 +1298,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 11
+        "register": 10
       },
       "enableBy": "config",
       "type": "plugin",
@@ -1176,6 +1321,71 @@
             0,
             0,
             0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            13,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
             0,
             0,
             0,
@@ -1185,7 +1395,7 @@
             0
           ]
         },
-        "register": 0
+        "register": 1
       },
       "enableBy": "register",
       "type": "plugin",
@@ -1200,9 +1410,85 @@
         "hooks": {
           "onGenerateFiles": [
             1,
+            0,
+            3,
+            0,
+            1,
+            0,
+            0,
+            1,
+            0,
+            1,
+            0,
+            1,
+            0,
+            1,
+            0,
+            0,
+            1,
+            1,
+            0,
+            2,
+            0,
+            1,
+            1,
+            1,
+            0,
+            0,
+            1,
+            0,
+            1,
+            0,
+            1,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            1,
+            1,
             0
           ],
           "addRuntimePlugin": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
             0,
             0
           ]
@@ -1220,7 +1506,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 1
+        "register": 2
       },
       "enableBy": "config",
       "type": "plugin",
@@ -1240,7 +1526,7 @@
             1
           ]
         },
-        "register": 18
+        "register": 21
       },
       "type": "plugin",
       "path": "/Users/qian/Downloads/code/lovePal-react/node_modules/.pnpm/@umijs+preset-umi@4.4.11_@types+node@22.15.30_@types+react@18.3.23_lightningcss@1.22.1__f290cfb49733d88024440dee2f1d8f85/node_modules/@umijs/preset-umi/dist/features/mock/mock.js",
@@ -1252,7 +1538,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 1
+        "register": 0
       },
       "enableBy": "config",
       "type": "plugin",
@@ -1265,7 +1551,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 0
+        "register": 1
       },
       "type": "plugin",
       "path": "/Users/qian/Downloads/code/lovePal-react/node_modules/.pnpm/@umijs+preset-umi@4.4.11_@types+node@22.15.30_@types+react@18.3.23_lightningcss@1.22.1__f290cfb49733d88024440dee2f1d8f85/node_modules/@umijs/preset-umi/dist/features/okam/okam.js",
@@ -1279,9 +1565,123 @@
         "hooks": {
           "onGenerateFiles": [
             0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
             0
           ],
           "addEntryImports": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
             0,
             0,
             0,
@@ -1315,13 +1715,129 @@
       "time": {
         "hooks": {
           "modifyConfig": [
+            0,
+            0,
             0
           ],
           "onGenerateFiles": [
-            117,
-            28
+            50,
+            23,
+            18,
+            11,
+            32,
+            14,
+            13,
+            31,
+            19,
+            23,
+            21,
+            14,
+            14,
+            25,
+            18,
+            14,
+            9,
+            21,
+            18,
+            121,
+            19,
+            18,
+            18,
+            14,
+            8,
+            16,
+            30,
+            19,
+            19,
+            21,
+            17,
+            18,
+            21,
+            26,
+            17,
+            30,
+            11,
+            15,
+            20,
+            14
           ],
           "addPolyfillImports": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
             0,
             0,
             0,
@@ -1344,10 +1860,86 @@
             0,
             0,
             0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
             0
           ]
         },
-        "register": 0
+        "register": 1
       },
       "enableBy": "register",
       "type": "plugin",
@@ -1361,11 +1953,49 @@
       "time": {
         "hooks": {
           "onGenerateFiles": [
-            76,
+            40,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
             0
           ]
         },
-        "register": 1
+        "register": 0
       },
       "enableBy": "register",
       "type": "plugin",
@@ -1378,7 +2008,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 0
+        "register": 1
       },
       "enableBy": "config",
       "type": "plugin",
@@ -1393,7 +2023,45 @@
         "hooks": {
           "onGenerateFiles": [
             0,
-            1
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
           ],
           "addBeforeMiddlewares": [
             0
@@ -1414,8 +2082,84 @@
         "hooks": {
           "onGenerateFiles": [
             8,
+            3,
+            9,
+            2,
+            5,
+            2,
+            3,
             1,
             8,
+            2,
+            3,
+            0,
+            5,
+            1,
+            6,
+            1,
+            7,
+            2,
+            7,
+            1,
+            6,
+            2,
+            2,
+            0,
+            4,
+            1,
+            6,
+            1,
+            5,
+            1,
+            5,
+            1,
+            5,
+            1,
+            8,
+            2,
+            6,
+            2,
+            45,
+            0,
+            7,
+            2,
+            5,
+            2,
+            7,
+            2,
+            5,
+            1,
+            4,
+            1,
+            5,
+            1,
+            7,
+            2,
+            5,
+            1,
+            5,
+            3,
+            5,
+            1,
+            5,
+            1,
+            7,
+            1,
+            7,
+            1,
+            5,
+            2,
+            5,
+            1,
+            6,
+            1,
+            5,
+            2,
+            5,
+            0,
+            6,
+            1,
+            5,
             1
           ]
         },
@@ -1432,7 +2176,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 0
+        "register": 1
       },
       "enableBy": "config",
       "type": "plugin",
@@ -1471,8 +2215,46 @@
       "time": {
         "hooks": {
           "onGenerateFiles": [
-            249,
-            10
+            245,
+            10,
+            7,
+            4,
+            8,
+            6,
+            7,
+            9,
+            6,
+            6,
+            6,
+            5,
+            6,
+            6,
+            8,
+            8,
+            5,
+            5,
+            6,
+            15,
+            6,
+            6,
+            5,
+            7,
+            6,
+            5,
+            6,
+            5,
+            7,
+            7,
+            6,
+            5,
+            7,
+            5,
+            6,
+            6,
+            6,
+            6,
+            7,
+            5
           ]
         },
         "register": 1
@@ -1505,7 +2287,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 1
+        "register": 2
       },
       "enableBy": "config",
       "type": "plugin",
@@ -1531,7 +2313,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 2
+        "register": 3
       },
       "type": "plugin",
       "path": "/Users/qian/Downloads/code/lovePal-react/node_modules/.pnpm/@umijs+preset-umi@4.4.11_@types+node@22.15.30_@types+react@18.3.23_lightningcss@1.22.1__f290cfb49733d88024440dee2f1d8f85/node_modules/@umijs/preset-umi/dist/features/apiRoute/apiRoute.js",
@@ -1543,7 +2325,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 11
+        "register": 12
       },
       "enableBy": "config",
       "type": "plugin",
@@ -1557,11 +2339,49 @@
       "time": {
         "hooks": {
           "onGenerateFiles": [
-            3,
+            2,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            0,
+            1,
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            0,
+            1,
+            1,
+            0,
+            1,
+            1,
+            0,
+            1,
+            1,
             0
           ]
         },
-        "register": 1
+        "register": 0
       },
       "type": "plugin",
       "path": "/Users/qian/Downloads/code/lovePal-react/node_modules/.pnpm/@umijs+preset-umi@4.4.11_@types+node@22.15.30_@types+react@18.3.23_lightningcss@1.22.1__f290cfb49733d88024440dee2f1d8f85/node_modules/@umijs/preset-umi/dist/features/test/test.js",
@@ -1612,7 +2432,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 0
+        "register": 1
       },
       "type": "plugin",
       "path": "/Users/qian/Downloads/code/lovePal-react/node_modules/.pnpm/@umijs+preset-umi@4.4.11_@types+node@22.15.30_@types+react@18.3.23_lightningcss@1.22.1__f290cfb49733d88024440dee2f1d8f85/node_modules/@umijs/preset-umi/dist/features/webpack/webpack.js",
@@ -1625,7 +2445,7 @@
       "time": {
         "hooks": {
           "addOnDemandDeps": [
-            0
+            1
           ]
         },
         "register": 0
@@ -1690,7 +2510,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 1
+        "register": 0
       },
       "enableBy": "config",
       "type": "plugin",
@@ -1704,10 +2524,10 @@
       "time": {
         "hooks": {
           "modifyUniBundler": [
-            294
+            326
           ]
         },
-        "register": 0
+        "register": 1
       },
       "enableBy": "register",
       "type": "plugin",
@@ -1733,7 +2553,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 19
+        "register": 18
       },
       "enableBy": "register",
       "type": "plugin",
@@ -1753,7 +2573,7 @@
             0
           ]
         },
-        "register": 15
+        "register": 20
       },
       "type": "plugin",
       "path": "/Users/qian/Downloads/code/lovePal-react/node_modules/.pnpm/@umijs+preset-umi@4.4.11_@types+node@22.15.30_@types+react@18.3.23_lightningcss@1.22.1__f290cfb49733d88024440dee2f1d8f85/node_modules/@umijs/preset-umi/dist/commands/dev/dev.js",
@@ -1791,7 +2611,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 0
+        "register": 1
       },
       "enableBy": "register",
       "type": "plugin",
@@ -1830,7 +2650,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 0
+        "register": 1
       },
       "enableBy": "register",
       "type": "plugin",
@@ -1843,7 +2663,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 1
+        "register": 0
       },
       "enableBy": "register",
       "type": "plugin",
@@ -1869,7 +2689,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 0
+        "register": 1
       },
       "enableBy": "register",
       "type": "plugin",
@@ -1908,7 +2728,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 1
+        "register": 0
       },
       "enableBy": "register",
       "type": "plugin",
@@ -1934,7 +2754,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 0
+        "register": 1
       },
       "enableBy": "register",
       "type": "plugin",
@@ -1960,7 +2780,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 1
+        "register": 0
       },
       "enableBy": "register",
       "type": "plugin",
@@ -1973,7 +2793,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 0
+        "register": 1
       },
       "enableBy": "register",
       "type": "plugin",
@@ -2038,7 +2858,7 @@
       "config": {},
       "time": {
         "hooks": {},
-        "register": 0
+        "register": 1
       },
       "enableBy": "register",
       "type": "plugin",
@@ -2201,22 +3021,28 @@
       "file": "@/layout/index.tsx",
       "id": "3",
       "absPath": "/",
-      "__content": "import React from 'react';\nimport { Layout, Menu } from 'antd';\nimport { Link, Outlet, useLocation } from 'umi';\nimport styles from './index.less';\n\n// 直接导入路由配置\n// 注意：这里的路径可能需要调整\nimport routes from '../../config/routes';\n\nconst { Header, Content } = Layout;\n\nconst BasicLayout: React.FC = () => {\n    const location = useLocation();\n\n    // 查找布局路由配置\n    const layoutRoute = routes.find(route =>\n        route.component && route.component.includes('/layout/index')\n    );\n\n    // 生成菜单项\n    const generateMenuItems = () => {\n        // 如果找不到布局路由或没有子路由，返回默认菜单\n        console.log(layoutRoute)\n        if (!layoutRoute || !layoutRoute.routes) {\n            return [\n                { key: '/home', label: <Link to=\"/home\">首页</Link> },\n                { key: '/feature1', label: <Link to=\"/feature1\">功能1</Link> },\n                { key: '/feature2', label: <Link to=\"/feature2\">功能2</Link> },\n            ];\n        }\n\n        // 从配置生成菜单\n        return layoutRoute.routes.map(route => {\n            const path = route.path.startsWith('/') ? route.path : `/${route.path}`;\n            return {\n                key: path,\n                label: <Link to={path}>{route.meta?.title || route.path}</Link>,\n            };\n        });\n    };\n\n    const menuItems = generateMenuItems();\n\n    return (\n        <Layout className={styles.layout}>\n            <Header className={styles.header}>\n                <div className={styles.logo}>LovePal AI</div>\n                <Menu\n                    theme=\"dark\"\n                    mode=\"horizontal\"\n                    selectedKeys={[location.pathname]}\n                    items={menuItems}\n                    className={styles.menu}\n                />\n            </Header>\n            <Content className={styles.content}>\n                <Outlet />\n            </Content>\n        </Layout>\n    );\n};\n\nexport default BasicLayout;\n",
+      "__content": "import React from 'react';\nimport { Layout, Menu } from 'antd';\nimport { Link, Outlet, useLocation } from 'umi';\nimport styles from './index.less';\n\n// 直接导入路由配置\n// 注意：这里的路径可能需要调整\nimport routes from '../../config/routes';\n\nconst { Header, Content } = Layout;\n\nconst BasicLayout: React.FC = () => {\n    const location = useLocation();\n\n    // 查找布局路由配置\n    const layoutRoute = routes.find(route =>\n        route.component && route.component.includes('/layout/index')\n    );\n\n    // 生成菜单项\n    const generateMenuItems = () => {\n        // 如果找不到布局路由或没有子路由，返回默认菜单\n        console.log(layoutRoute)\n        if (!layoutRoute || !layoutRoute.routes) {\n            return [\n                { key: '/home', label: <Link to=\"/home\">我们是谁？</Link> },\n                { key: '/feature1', label: <Link to=\"/feature1\">文档/案例</Link> },\n                { key: '/feature2', label: <Link to=\"/feature2\">会多少钱</Link> },\n            ];\n        }\n\n        // 从配置生成菜单\n        return layoutRoute.routes.map(route => {\n            const path = route.path.startsWith('/') ? route.path : `/${route.path}`;\n            return {\n                key: path,\n                label: <Link to={path}>{route.meta?.title || route.path}</Link>,\n            };\n        });\n    };\n\n    const menuItems = generateMenuItems();\n\n    return (\n        <Layout className={styles.layout}>\n            {/* <Header className={styles.header}>\n                <div className={styles.logo}>LovePal AI</div>\n                <Menu\n                    theme=\"dark\"\n                    mode=\"horizontal\"\n                    selectedKeys={[location.pathname]}\n                    items={menuItems}\n                    className={styles.menu}\n                />\n            </Header> */}\n            <Content className={styles.content}>\n                <Outlet />\n            </Content>\n        </Layout>\n    );\n};\n\nexport default BasicLayout;\n",
       "__isJSFile": true,
       "__absFile": "/Users/qian/Downloads/code/lovePal-react/src/layout/index.tsx"
     },
     "4": {
       "path": "home",
-      "file": "@/pages/home/index.tsx",
+      "meta": {
+        "title": "首页"
+      },
+      "file": "@/pages/index.tsx",
       "parentId": "3",
       "id": "4",
       "absPath": "/home",
-      "__content": "import React, { useRef, useEffect, useState } from 'react';\nimport styles from './index.less';\n\nconst HomePage: React.FC = () => {\n  const [headerBgOpacity, setHeaderBgOpacity] = useState(0);\n  const mainRef = useRef<HTMLDivElement>(null);\n\n  const handleScroll = () => {\n    if (!mainRef.current) return;\n    const scrollPosition = mainRef.current.scrollTop;\n    setHeaderBgOpacity(scrollPosition > 20 ? 1 : 0);\n  };\n\n  useEffect(() => {\n    const main = mainRef.current;\n    if (main) {\n      main.addEventListener('scroll', handleScroll);\n      return () => main.removeEventListener('scroll', handleScroll);\n    }\n  }, []);\n\n  return (\n    <div ref={mainRef} className={styles.main}>\n      <div className={styles.hero}>\n        <h1 className={styles.title}>\n          Your One-Stop AI Image & Video Creation Platform\n        </h1>\n        <div className={styles.buttonGroup}>\n          <a href=\"/image-to-video\" className={styles.button}>\n            Image to Video\n          </a>\n          <a href=\"/ai-video-generator\" className={styles.button}>\n            Text to Video\n          </a>\n          <a href=\"/ai-image-generator\" className={styles.button}>\n            AI Image Generator\n          </a>\n        </div>\n      </div>\n      <video\n        className={styles.video}\n        poster=\"https://cdn.pollo.ai/prod/public/images/index/banner.jpg\"\n        src=\"https://cdn.pollo.ai/prod/public/video/banner-video2.mp4\"\n        autoPlay\n        playsInline\n        muted\n        loop\n        preload=\"none\"\n      />\n    </div>\n  );\n};\n\nexport default HomePage; ",
+      "__content": "import React, { useState, useEffect, useRef } from 'react';\nimport { Layout, Menu, Button, Row, Col, Card, Typography, Space, Drawer } from 'antd';\nimport {\n    GithubOutlined,\n    WechatOutlined,\n    QqOutlined,\n    MailOutlined,\n    MenuOutlined,\n} from '@ant-design/icons';\nimport './index.less';\nimport logoImg from '@/assets/logo.png';\n\nconst { Header, Content, Footer } = Layout;\nconst { Title, Paragraph, Text } = Typography;\n\nconst navItems = [\n    { key: 'home', label: '首页' },\n    { key: 'case', label: '案例汇聚' },\n    { key: 'docs', label: '操作文档' },\n    { key: 'about', label: '关于我们' },\n];\n\nconst introCards = [\n    {\n        title: '标准导航界面，方便跳转',\n        desc: '从此不再迷路，导航清晰明了。',\n    },\n    {\n        title: '支持多端，手机/平板/PC',\n        desc: 'USB随时用，手机扫码也能访问。',\n    },\n    {\n        title: '数据隔离，安全可靠',\n        desc: '数据隔离存储，安全有保障。',\n    },\n];\n\nconst caseCards = [\n    { title: '【软件导航】开发工具', img: 'https://placehold.co/120x80', count: 234 },\n    { title: '【案例】销售管理系统', img: 'https://placehold.co/120x80', count: 112 },\n    { title: '【案例】教育教务系统', img: 'https://placehold.co/120x80', count: 98 },\n    { title: '【软件导航】办公工具', img: 'https://placehold.co/120x80', count: 567 },\n    { title: '【精选】', img: 'https://placehold.co/120x80', count: 33 },\n];\n\nconst adCards = [\n    {\n        title: '广告招租',\n        desc: '欢迎投放您的广告',\n        img: 'https://placehold.co/180x100',\n    },\n    {\n        title: 'To-C',\n        desc: '上百款好用软件导航和教程汇总',\n        img: 'https://placehold.co/180x100',\n    },\n    {\n        title: 'To-B',\n        desc: '一站式行业解决方案',\n        img: 'https://placehold.co/180x100',\n    },\n];\n\nconst keywords = ['软件', '网页', '应用'];\n\nconst blindspotCards = [\n    {\n        title: '半透明界面，方便观看',\n        desc: '如果是笔记本用户',\n        img: 'https://placehold.co/260x160/cccccc/fff?text=图片1',\n    },\n    {\n        title: '全透明界面，鼠标穿透',\n        desc: '鼠标穿透，不影响操作',\n        img: 'https://placehold.co/260x160/cccccc/fff?text=图片2',\n    },\n    {\n        title: '动态调整，实时更新',\n        desc: '对厂商来说，每次软件更新了内容，会有一堆人追着问如何操作，之前的功能演示视频，反而成了待更新的错误信息，透见 SeeLayer 的核心附加功能之一，就是实时更新\\n\\n动态鼠标，文字随动',\n        img: 'https://placehold.co/260x160/cccccc/fff?text=图片3',\n    },\n];\n\nconst IndexPage: React.FC = () => {\n    // 关键词轮播状态\n    const [kwIndex, setKwIndex] = useState(0);\n    const [prevKwIndex, setPrevKwIndex] = useState(0);\n    const [isAnimating, setIsAnimating] = useState(false);\n    const timerRef = useRef<any>();\n    const [menuOpen, setMenuOpen] = useState(false);\n\n    useEffect(() => {\n        const timer = setInterval(() => {\n            setPrevKwIndex(kwIndex);\n            setKwIndex(idx => (idx + 1) % keywords.length);\n            setIsAnimating(true);\n        }, 2000);\n        return () => clearInterval(timer);\n    }, [kwIndex]);\n\n    useEffect(() => {\n        if (isAnimating) {\n            const t = setTimeout(() => setIsAnimating(false), 500);\n            return () => clearTimeout(t);\n        }\n    }, [isAnimating]);\n\n    return (\n        <Layout className=\"main-layout\">\n            {/* 顶部导航栏 */}\n            <Header className=\"main-header\">\n                <div className=\"logo-bar\">\n                    <div className=\"logo\">\n                        <img src={logoImg} alt=\"logo\" className=\"logo-img\" />\n                    </div>\n                    <Button\n                        className=\"main-menu-mobile\"\n                        type=\"text\"\n                        icon={<MenuOutlined style={{ fontSize: 26 }} />}\n                        onClick={() => setMenuOpen(true)}\n                    />\n                </div>\n                <div className=\"main-menu-pc\">\n                    <Menu\n                        mode=\"horizontal\"\n                        defaultSelectedKeys={['home']}\n                        items={navItems}\n                        className=\"main-menu\"\n                    />\n                </div>\n                <Button type=\"primary\" className=\"login-btn\">\n                    登录/注册\n                </Button>\n                <Drawer\n                    title={<img src={logoImg} alt=\"logo\" className=\"logo-img\" style={{ height: 32 }} />}\n                    placement=\"right\"\n                    onClose={() => setMenuOpen(false)}\n                    open={menuOpen}\n                    className=\"main-menu-drawer\"\n                    width={240}\n                >\n                    <Menu\n                        mode=\"vertical\"\n                        defaultSelectedKeys={['home']}\n                        items={navItems}\n                        onClick={() => setMenuOpen(false)}\n                    />\n                    <Button type=\"primary\" className=\"login-btn-mobile\" block style={{ marginTop: 24 }}>\n                        登录/注册\n                    </Button>\n                </Drawer>\n            </Header>\n            <Content className=\"main-content\">\n                {/* 主标题区 */}\n                <section className=\"hero-section\">\n                    <Title level={1} className=\"hero-title\">\n                        <span>世界上第一款透明的</span>\n                        <span className=\"kw-roller\">\n                          {isAnimating ? (\n                            <>\n                              <span className=\"kw-roller-item out\" key={prevKwIndex}>\n                                {keywords[prevKwIndex]}\n                              </span>\n                              <span className=\"kw-roller-item in\" key={kwIndex}>\n                                {keywords[kwIndex]}\n                              </span>\n                            </>\n                          ) : (\n                            <span className=\"kw-roller-item show\" key={kwIndex}>\n                              {keywords[kwIndex]}\n                            </span>\n                          )}\n                        </span>\n                        <span>导航应用</span>\n                    </Title>\n                    <Paragraph className=\"hero-desc\">\n                        甄选SaaS导航，帮你高效找到合适的软件工具。<br />\n                        适合开发、运营、市场、设计、管理等各类岗位，支持多端访问，安全可靠。\n                    </Paragraph>\n                    <Space>\n                        <Button type=\"primary\" size=\"large\">体验软件导航</Button>\n                        <Button size=\"large\">合作咨询</Button>\n                    </Space>\n                    <Text className=\"hero-note\">*永久免费使用</Text>\n                </section>\n\n                <section className=\"blindspot-section\">\n                    <h2 className=\"blindspot-title\">软件导航——职场容易忽视的盲区</h2>\n                    <div className=\"blindspot-subtitle\">透见 SeeLayer，发现灵感来源于硬件工作的繁琐</div>\n                    <div className=\"blindspot-cards\">\n                        {blindspotCards.map((item, idx) => (\n                            <div className=\"blindspot-card\" key={idx}>\n                                <img src={item.img} alt={item.title} className=\"blindspot-img\" />\n                                <div className=\"blindspot-card-title\">{item.title}</div>\n                                <div className=\"blindspot-card-desc\">{item.desc}</div>\n                            </div>\n                        ))}\n                    </div>\n                </section>\n\n                {/* 三栏介绍区 */}\n                <section className=\"intro-section\">\n                    <Row gutter={24} justify=\"center\">\n                        {introCards.map((item, idx) => (\n                            <Col xs={24} sm={8} key={idx}>\n                                <Card className=\"intro-card\" variant=\"borderless\" hoverable>\n                                    <Title level={4}>{item.title}</Title>\n                                    <Paragraph>{item.desc}</Paragraph>\n                                </Card>\n                            </Col>\n                        ))}\n                    </Row>\n                </section>\n\n                {/* 案例汇聚/操作文档区 */}\n                <section className=\"case-section\">\n                    <Title level={3} className=\"section-title\">案例汇聚 操作文档</Title>\n                    <Paragraph className=\"section-desc\">\n                        收录行业主流SaaS，真实案例和操作文档持续更新，SaaS用户和从业者的交流专区\n                    </Paragraph>\n                    <Row gutter={16} className=\"case-row\" wrap={false} style={{ overflowX: 'auto' }}>\n                        {caseCards.map((item, idx) => (\n                            <Col key={idx} flex=\"0 0 180px\">\n                                <Card\n                                    className=\"case-card\"\n                                    cover={<img alt={item.title} src={item.img} style={{ borderRadius: 8 }} />}\n                                    variant=\"borderless\"\n                                    hoverable\n                                >\n                                    <Title level={5}>{item.title}</Title>\n                                    <Text type=\"secondary\">{item.count}</Text>\n                                </Card>\n                            </Col>\n                        ))}\n                    </Row>\n                </section>\n\n                {/* 广告/三栏区 */}\n                <section className=\"ad-section\">\n                    <Title level={3} className=\"section-title\">基本不花钱！嘿嘿嘿 想不到吧</Title>\n                    <Paragraph className=\"section-desc\">\n                        甄选SaaS导航，帮你高效找到合适的软件工具。<br />\n                        以广告模式维持免费运营，欢迎联系投放广告/ToC/ToB，量大更优惠，长期合作更划算。\n                    </Paragraph>\n                    <Row gutter={24} justify=\"center\">\n                        {adCards.map((item, idx) => (\n                            <Col xs={24} sm={8} key={idx}>\n                                <Card className=\"ad-card\" variant=\"borderless\" hoverable>\n                                    <img src={item.img} alt={item.title} className=\"ad-img\" />\n                                    <Title level={5}>{item.title}</Title>\n                                    <Paragraph>{item.desc}</Paragraph>\n                                </Card>\n                            </Col>\n                        ))}\n                    </Row>\n                </section>\n            </Content>\n            {/* 页脚 */}\n            <Footer className=\"main-footer\">\n                <div className=\"footer-main\">\n                    <div className=\"footer-logo\">\n                        <img src={logoImg} alt=\"logo\" className=\"logo-img\" />\n                    </div>\n                    <div className=\"footer-desc\">\n                        To B——让你的软件高效精准触达企业\n                        <br />To C——一站式软件导航体验\n                    </div>\n                    <div className=\"footer-social\">\n                        <Button shape=\"circle\" icon={<GithubOutlined />} />\n                        <Button shape=\"circle\" icon={<WechatOutlined />} />\n                        <Button shape=\"circle\" icon={<QqOutlined />} />\n                        <Button shape=\"circle\" icon={<MailOutlined />} />\n                    </div>\n                </div>\n                <div className=\"footer-copy\">\n                    <Text type=\"secondary\">© 2024 飞书导航. All rights reserved.</Text>\n                </div>\n            </Footer>\n        </Layout>\n    );\n};\n\nexport default IndexPage; ",
       "__isJSFile": true,
-      "__absFile": "/Users/qian/Downloads/code/lovePal-react/src/pages/home/index.tsx"
+      "__absFile": "/Users/qian/Downloads/code/lovePal-react/src/pages/index.tsx"
     },
     "5": {
       "path": "feature1",
+      "meta": {
+        "title": "功能1"
+      },
       "file": "@/pages/feature1/index.tsx",
       "parentId": "3",
       "id": "5",
@@ -2227,6 +3053,9 @@
     },
     "6": {
       "path": "feature2",
+      "meta": {
+        "title": "功能2"
+      },
       "file": "@/pages/feature2/index.tsx",
       "parentId": "3",
       "id": "6",
@@ -2256,7 +3085,9 @@
     ]
   },
   "mfsuBundleStatus": {
-    "done": true
+    "done": true,
+    "percent": 1,
+    "status": ""
   },
   "react": {
     "version": "18.3.1",
@@ -2274,6 +3105,9 @@
   "globalJS": [],
   "overridesCSS": [],
   "bundler": "webpack",
+  "git": {
+    "originUrl": "https://github.com/xubaobao19940428/seelayer-web.git"
+  },
   "framework": "react",
   "typescript": {
     "tsVersion": "5.8.3",
@@ -2282,7 +3116,7 @@
   "faviconFiles": [],
   "port": 8000,
   "host": "0.0.0.0",
-  "ip": "172.17.2.181",
+  "ip": "172.17.2.47",
   "prepare": {
     "buildResult": {
       "errors": [],
@@ -3553,12 +4387,12 @@
             "format": "esm"
           },
           "config/routes.ts": {
-            "bytes": 792,
+            "bytes": 793,
             "imports": [],
             "format": "esm"
           },
           "src/layout/index.tsx": {
-            "bytes": 2006,
+            "bytes": 2034,
             "imports": [
               {
                 "path": "react",
@@ -3593,8 +4427,8 @@
             ],
             "format": "esm"
           },
-          "src/pages/home/index.tsx": {
-            "bytes": 1565,
+          "src/pages/index.tsx": {
+            "bytes": 12282,
             "imports": [
               {
                 "path": "react",
@@ -3602,7 +4436,22 @@
                 "external": true
               },
               {
+                "path": "antd",
+                "kind": "import-statement",
+                "external": true
+              },
+              {
+                "path": "@ant-design/icons",
+                "kind": "import-statement",
+                "external": true
+              },
+              {
                 "path": "./index.less",
+                "kind": "import-statement",
+                "external": true
+              },
+              {
+                "path": "@/assets/logo.png",
                 "kind": "import-statement",
                 "external": true
               },
@@ -3637,7 +4486,7 @@
             "format": "esm"
           },
           "src/.umi/core/route.tsx": {
-            "bytes": 1107,
+            "bytes": 1096,
             "imports": [
               {
                 "path": "react",
@@ -3660,9 +4509,9 @@
                 "original": "@/layout/index.tsx"
               },
               {
-                "path": "src/pages/home/index.tsx",
+                "path": "src/pages/index.tsx",
                 "kind": "dynamic-import",
-                "original": "@/pages/home/index.tsx"
+                "original": "@/pages/index.tsx"
               },
               {
                 "path": "src/pages/feature1/index.tsx",
@@ -3798,7 +4647,22 @@
                 "external": true
               },
               {
+                "path": "antd",
+                "kind": "import-statement",
+                "external": true
+              },
+              {
+                "path": "@ant-design/icons",
+                "kind": "import-statement",
+                "external": true
+              },
+              {
                 "path": "./index.less",
+                "kind": "import-statement",
+                "external": true
+              },
+              {
+                "path": "@/assets/logo.png",
                 "kind": "import-statement",
                 "external": true
               },
@@ -4947,13 +5811,13 @@
                 "bytesInOutput": 385
               },
               "config/routes.ts": {
-                "bytesInOutput": 881
+                "bytesInOutput": 882
               },
               "src/layout/index.tsx": {
-                "bytesInOutput": 2188
+                "bytesInOutput": 1746
               },
-              "src/pages/home/index.tsx": {
-                "bytesInOutput": 2188
+              "src/pages/index.tsx": {
+                "bytesInOutput": 14547
               },
               "src/pages/feature1/index.tsx": {
                 "bytesInOutput": 415
@@ -4962,7 +5826,7 @@
                 "bytesInOutput": 415
               },
               "src/.umi/core/route.tsx": {
-                "bytesInOutput": 1191
+                "bytesInOutput": 1193
               },
               "src/.umi/core/polyfill.ts": {
                 "bytesInOutput": 30454
@@ -4971,7 +5835,7 @@
                 "bytesInOutput": 2030
               }
             },
-            "bytes": 46126
+            "bytes": 58041
           }
         }
       }
@@ -7462,7 +8326,7 @@
       ],
       "/Users/qian/Downloads/code/lovePal-react/src/pages/feature1/index.tsx": [],
       "/Users/qian/Downloads/code/lovePal-react/src/pages/feature2/index.tsx": [],
-      "/Users/qian/Downloads/code/lovePal-react/src/pages/home/index.tsx": [
+      "/Users/qian/Downloads/code/lovePal-react/src/pages/index.tsx": [
         {
           "end": 60,
           "importKind": "value",
@@ -7473,8 +8337,8 @@
               "type": "ImportDefaultSpecifier"
             },
             {
-              "imported": "useRef",
-              "local": "useRef",
+              "imported": "useState",
+              "local": "useState",
               "type": "ImportSpecifier"
             },
             {
@@ -7483,8 +8347,8 @@
               "type": "ImportSpecifier"
             },
             {
-              "imported": "useState",
-              "local": "useState",
+              "imported": "useRef",
+              "local": "useRef",
               "type": "ImportSpecifier"
             }
           ],
@@ -7492,16 +8356,112 @@
           "type": "ImportDeclaration"
         },
         {
-          "end": 95,
+          "end": 148,
           "importKind": "value",
-          "source": "./index.less",
+          "source": "antd",
           "specifiers": [
             {
-              "local": "styles",
-              "type": "ImportDefaultSpecifier"
+              "imported": "Layout",
+              "local": "Layout",
+              "type": "ImportSpecifier"
+            },
+            {
+              "imported": "Menu",
+              "local": "Menu",
+              "type": "ImportSpecifier"
+            },
+            {
+              "imported": "Button",
+              "local": "Button",
+              "type": "ImportSpecifier"
+            },
+            {
+              "imported": "Row",
+              "local": "Row",
+              "type": "ImportSpecifier"
+            },
+            {
+              "imported": "Col",
+              "local": "Col",
+              "type": "ImportSpecifier"
+            },
+            {
+              "imported": "Card",
+              "local": "Card",
+              "type": "ImportSpecifier"
+            },
+            {
+              "imported": "Typography",
+              "local": "Typography",
+              "type": "ImportSpecifier"
+            },
+            {
+              "imported": "Space",
+              "local": "Space",
+              "type": "ImportSpecifier"
+            },
+            {
+              "imported": "Drawer",
+              "local": "Drawer",
+              "type": "ImportSpecifier"
             }
           ],
           "start": 61,
+          "type": "ImportDeclaration"
+        },
+        {
+          "end": 277,
+          "importKind": "value",
+          "source": "@ant-design/icons",
+          "specifiers": [
+            {
+              "imported": "GithubOutlined",
+              "local": "GithubOutlined",
+              "type": "ImportSpecifier"
+            },
+            {
+              "imported": "WechatOutlined",
+              "local": "WechatOutlined",
+              "type": "ImportSpecifier"
+            },
+            {
+              "imported": "QqOutlined",
+              "local": "QqOutlined",
+              "type": "ImportSpecifier"
+            },
+            {
+              "imported": "MailOutlined",
+              "local": "MailOutlined",
+              "type": "ImportSpecifier"
+            },
+            {
+              "imported": "MenuOutlined",
+              "local": "MenuOutlined",
+              "type": "ImportSpecifier"
+            }
+          ],
+          "start": 149,
+          "type": "ImportDeclaration"
+        },
+        {
+          "end": 300,
+          "importKind": "value",
+          "source": "./index.less",
+          "specifiers": [],
+          "start": 278,
+          "type": "ImportDeclaration"
+        },
+        {
+          "end": 341,
+          "importKind": "value",
+          "source": "@/assets/logo.png",
+          "specifiers": [
+            {
+              "local": "logoImg",
+              "type": "ImportDefaultSpecifier"
+            }
+          ],
+          "start": 301,
           "type": "ImportDeclaration"
         }
       ],

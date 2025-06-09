@@ -43,7 +43,7 @@ const BasicLayout: React.FC = () => {
 
     return (
         <Layout className={styles.layout}>
-            <Header className={styles.header}>
+            {/* <Header className={styles.header}>
                 <div className={styles.logo}>LovePal AI</div>
                 <Menu
                     theme="dark"
@@ -52,7 +52,7 @@ const BasicLayout: React.FC = () => {
                     items={menuItems}
                     className={styles.menu}
                 />
-            </Header>
+            </Header> */}
             <Content className={styles.content}>
                 <Outlet />
             </Content>

@@ -11,7 +11,7 @@ export async function getRoutes() {
 '1': React.lazy(() => import('./EmptyRoute')),
 '2': React.lazy(() => import(/* webpackChunkName: "p__login__index" */'@/pages/login/index.tsx')),
 '3': React.lazy(() => import(/* webpackChunkName: "layout__index" */'@/layout/index.tsx')),
-'4': React.lazy(() => import(/* webpackChunkName: "p__home__index" */'@/pages/home/index.tsx')),
+'4': React.lazy(() => import(/* webpackChunkName: "p__index" */'@/pages/index.tsx')),
 '5': React.lazy(() => import(/* webpackChunkName: "p__feature1__index" */'@/pages/feature1/index.tsx')),
 '6': React.lazy(() => import(/* webpackChunkName: "p__feature2__index" */'@/pages/feature2/index.tsx')),
 },

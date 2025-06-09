@@ -14,7 +14,7 @@ export default [
         routes: [
             {
                 path: 'home',
-                component: '@/pages/home',
+                component: '@/pages/index',
                 meta: { title: '首页' },
             },
             {
